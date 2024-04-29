@@ -1,1 +1,26 @@
-/* Start coding here */
+div {
+  display: inline-block;
+  margin: auto;
+  background-color: lightgrey;
+  height: 100vh;
+  width: 100vw;
+  padding: 50px;
+}
+
+.box-1 {
+  color: black;
+  background-color: khaki;
+  height: 25rem;
+}
+
+.box-2 {
+  color: black;
+  background-color: orange;
+  height: 25rem;
+}
+
+.box-3 {
+  color: black;
+  background-color: cornflowerblue;
+  height: 50rem;
+}
