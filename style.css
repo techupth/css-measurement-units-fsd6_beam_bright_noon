@@ -1,1 +1,33 @@
-/* Start coding here */
+*{
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: lightgrey;
+    height: auto;
+    padding: 50px;
+    margin: 0px;
+    
+}
+.box-1{
+    height: 25vh;
+    padding: 50px;
+    background-color: khaki;
+    border: 1px ;
+   
+}
+.box-2{
+    height: 25vh;
+    padding: 50px;
+    background-color: orange;
+    border: 1px ;
+    
+}
+.box-3{
+    height: 50vh;
+    padding: 50px;
+    background-color: cornflowerblue;
+    border: 1px ;
+  
+}
